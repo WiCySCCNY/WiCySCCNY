@@ -13,6 +13,9 @@ ___________________________________________________________________________
 - 📫 How to reach us: [Social Media](https://linktr.ee/wicysccny) and email at: wicysccny@gmail.com.
 - 👩‍💻 This Github is currently maintained by 2021-22 E-Board members.
 
+
+
+<!---
 **2021-22 E-Board**
 
 - President: 
@@ -22,7 +25,7 @@ ___________________________________________________________________________
 - Chief Marketing Officer:
 - Chief Engagement Officer:
 - Chief Technology Officer:
-
+--->
 <!---
 WiCySCCNY/WiCySCCNY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
