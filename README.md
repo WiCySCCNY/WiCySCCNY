@@ -2,6 +2,8 @@
 
 ![Banner](https://github.com/WiCySCCNY/WiCySCCNY/blob/main/Banner.png)
 
+
+
 - 👋 Hi, This is the Official Github for the Women in Cybersecurity Student Chapter at CUNY City College of New York
 - 👀 We are interested in Cybersecurity/Information Assurance and empowering all female identifying members within this space.
 - 🌱 We are currently learning about different aspects of Cybersecurity.
