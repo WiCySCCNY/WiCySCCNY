@@ -12,8 +12,10 @@ ___________________________________________________________________________
 - 💞️ We looking to collaborate on future events, such as CTFs, workshops, info sessions, panels and networking events. 
 - 📫 How to reach us: [Social Media](https://linktr.ee/wicysccny) and email at: wicysccny@gmail.com.
 - 👩‍💻 This Github is currently maintained by 2021-22 E-Board members.
-- 
-- Chapter President: [Jocelyn](https://github.com/JocelynMilRodriguez).
+
+**2021-22 E-Board**
+
+- President: [Jocelyn](https://github.com/JocelynMilRodriguez)
 - Vice President: 
 - Treasurer: 
 - Secretary:
