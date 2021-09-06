@@ -21,6 +21,7 @@ ___________________________________________________________________________
 - Secretary:
 - Chief Marketing Officer:
 - Chief Engagement Officer:
+- Chief Technology Officer:
 
 <!---
 WiCySCCNY/WiCySCCNY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
