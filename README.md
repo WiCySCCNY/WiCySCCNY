@@ -2,7 +2,7 @@
 - 👀 We are interested in Cybersecurity/Information Assurance and empowering all female identifying members within this space.
 - 🌱 We are currently learning about different aspects of Cybersecurity.
 - 💞️ We looking to collaborate on future events, such as CTFs, workshops, info sessions, panels and networking events. 
-- 📫 How to reach us: [Linktree-Social Media](https://linktr.ee/wicysccny) and email at: wicysccny@gmail.com
+- 📫 How to reach us: [Social Media](https://linktr.ee/wicysccny) and email at: wicysccny@gmail.com
 
 <!---
 WiCySCCNY/WiCySCCNY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
