@@ -15,7 +15,7 @@ ___________________________________________________________________________
 
 **2021-22 E-Board**
 
-- President: [Jocelyn Rodriguez](https://github.com/JocelynMilRodriguez)
+- President: 
 - Vice President: 
 - Treasurer: 
 - Secretary:
