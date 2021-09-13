@@ -14,6 +14,9 @@ ___________________________________________________________________________
 - 👩‍💻 This Github profile is currently maintained by 2021-22 E-Board members.
 
 _____________________________________
+With 2022 around the corner, are you ready for a summer internship?
+
+If so, check out and follow the open-source Github repos curated specifically for Cybersecurity & Information Assurance internships and early career opportunities. Pay it forward.
 
 *GitHub Repo Raffle*
 Rules and Restrictions:
