@@ -16,7 +16,7 @@ ___________________________________________________________________________
 _____________________________________
 With 2022 around the corner, are you ready for a summer internship?
 
-If so, check out and follow the open-source Github repos curated specifically for Cybersecurity & Information Assurance internships and early career opportunities. Pay it forward.
+If so, check out and follow the open-source Github repos curated specifically for Cybersecurity & Information Assurance internships and early career opportunities. Pay it forward. By contributing to the list [at least once] through a pull request or form submission, you are automatically entered to win a $25 gift card!
 
 *GitHub Repo Raffle*
 Rules and Restrictions:
