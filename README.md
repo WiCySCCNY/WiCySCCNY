@@ -13,6 +13,7 @@ ___________________________________________________________________________
 - 📫 Feel free to contact us [here](https://linktr.ee/wicysccny).
 - 👩‍💻 This Github profile is currently maintained by 2021-22 E-Board members.
 
+_____________________________________
 
 *GitHub Repo Raffle*
 Rules and Restrictions:
