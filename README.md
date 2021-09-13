@@ -14,6 +14,12 @@ ___________________________________________________________________________
 - 👩‍💻 This Github profile is currently maintained by 2021-22 E-Board members.
 
 
+*GitHub Repo Raffle*
+Rules and Restrictions:
+- Must be an undergraduate/graduate student from CUNY.
+- Must be 18 or older.
+- Must contributing to one of the WiCyS lists at least once through a pull request or form submission provided. 
+- Winner will be annouced and informed by December 2021. 
 
 <!---
 **2021-22 E-Board**
