@@ -12,8 +12,17 @@ ___________________________________________________________________________
 - 💞️ We looking to collaborate on future events, such as CTFs, workshops, info sessions, panels and networking events. 
 - 📫 Feel free to contact us [here](https://linktr.ee/wicysccny).
 - 👩‍💻 This Github profile is currently maintained by 2021-22 E-Board members.
+- 📺 Did you miss an event? No worries! We got you. You can see the recordings of our events [here]. 
+- 
 
 _____________________________________
+
+
+
+<!---
+
+
+
 With 2022 around the corner, are you ready for a summer internship?
 
 If so, check out and follow the open-source Github repos curated specifically for Cybersecurity & Information Assurance internships and early career opportunities. Pay it forward. By contributing to the list [at least once] through a pull request or form submission, you are automatically entered to win a $25 gift card!
@@ -25,7 +34,8 @@ Rules and Restrictions:
 - Must contributing to one of the WiCyS lists at least once through a pull request or form submission provided. 
 - Winner will be annouced and informed by December 2021. 
 
-<!---
+
+
 **2021-22 E-Board**
 
 - President: 
