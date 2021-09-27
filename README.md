@@ -13,7 +13,6 @@ ___________________________________________________________________________
 - 📫 Feel free to contact us [here](https://linktr.ee/wicysccny).
 - 👩‍💻 This Github profile is currently maintained by 2021-22 E-Board members.
 - 📺 Did you miss an event? No worries! You can see the recordings of our events [here](https://www.youtube.com/channel/UClvxxOM5jjaKcJXGfa0DK-Q). 
-- 
 
 _____________________________________
 
